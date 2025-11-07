@@ -1,1 +1,11 @@
+streamlit
+tensorflow
+numpy
+pandas
+pillow
+matplotlib
+``` |
+| **`data/` folder (optional)** | Store any sample test images or a small dataset for demo. |
+| **`screenshots/` folder (optional)** | Add app interface images (for GitHub README display). |
+| **`app_logo.png` (optional)** | A simple logo to make the UI or repo look professional. |
 
